@@ -10,7 +10,7 @@
 .navbar{
     width:100%;
     height:100px;
-    background: gray;
+    background: red;
 }
 ul{
     display: flex;
@@ -39,7 +39,7 @@ p{
 #btnlearn{
     width:250px;
     height:50px;
-    background: gray;
+    background: red;
     color: white;
     letter-spacing: 5px;
     position: relative;
@@ -56,7 +56,7 @@ h1{
 .footer{
     width:100%;
     height:100px;
-    background: gray;
+    background: red;
     position: relative;
     top: 120px;
 }
